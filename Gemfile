@@ -12,6 +12,7 @@ gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 4.2'
+gem 'paperclip', '~> 5.1'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
